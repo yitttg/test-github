@@ -1,2 +1,2 @@
 # test-github
-for test github feature
+private for testing github feature
